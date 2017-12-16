@@ -10,7 +10,7 @@ package com.animeshdutta;
 public class Hello {
 
 	public Hello() {
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	public static void main(String[] args) {
