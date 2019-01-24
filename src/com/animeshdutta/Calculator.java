@@ -1,6 +1,5 @@
 
 package com.animeshdutta;
-
 import java.util.Scanner;
 
 public class Calculator {
@@ -34,7 +33,6 @@ public class Calculator {
 			System.out.println("Calculator:Division::" +(x/y));
 			
 		}
-		
 		else {
 			System.out.println("Invaild Input");
 		}
