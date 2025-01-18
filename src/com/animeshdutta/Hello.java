@@ -2,8 +2,6 @@
  * 
  */
 
-
-
 package com.animeshdutta;
 
 /**
