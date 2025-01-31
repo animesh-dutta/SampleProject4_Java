@@ -7,7 +7,6 @@ package com.animeshdutta;
  * @author AnimeshDutta
  *
  */
-
 public class Hello {
 
 	public Hello() {	
